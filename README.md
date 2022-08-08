@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm former student of Kyiv Polytechnic Institute, Faculty of Informatics and Computer Science. \
-Most experienced in front-end development, had several projects with backend and db in university, and developed interaction with blockchain for front-end purposes 
+Most experienced with front-end, had several projects with backend and db in university, and developed interaction with blockchain for front-end purposes 
 
 📫 How to reach me: [Telegram](https://t.me/catskin)
 <!--
